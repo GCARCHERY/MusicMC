@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playlists>
+    <selected_playlist_name>Hard Metal</selected_playlist_name>
+    <mode_of_play>1</mode_of_play>
+    <selected_eq_preset>67</selected_eq_preset>
+    <selected_eq_preset>52</selected_eq_preset>
+    <selected_eq_preset>46</selected_eq_preset>
+    <selected_eq_preset>36</selected_eq_preset>
+    <selected_eq_preset>56</selected_eq_preset>
+    <selected_eq_preset>62</selected_eq_preset>
+    <selected_eq_preset>53</selected_eq_preset>
+    <selected_eq_preset>37</selected_eq_preset>
+    <selected_eq_preset>61</selected_eq_preset>
+    <selected_eq_preset>61</selected_eq_preset>
+    <volume>0.05</volume>
+    <fav_song_name>The Nomad - VOTE (guitar playthrough)</fav_song_name>
+    <playlist>
+        <playlist_name>50 Cent</playlist_name>
+        <song>
+            <url>https://www.youtube.com/watch?v=kzMkWxryWeM&amp;amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;amp;amp;index=304</url>
+            <name>50 Cent - If I can't</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\5.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=0V98v5y3ToQ&amp;amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;amp;amp;index=291</url>
+            <name>50 Cent - Back Down</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\9.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=OhH5xBQrzGo&amp;amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;amp;amp;index=320</url>
+            <name>50 Cent - 'Till I Collapse</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\15.png</music_icon_path>
+        </song>
+        <song>
+            <url>MISSING</url>
+            <name>test</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\127248.png</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Led Zeppelin - Stairway To Heaven (NOT LIVE) (Perfect Audio).mp3</mp3_path>
+        </song>
+    </playlist>
+    <playlist>
+        <playlist_name>Ice Cube</playlist_name>
+        <song>
+            <url>https://www.youtube.com/watch?v=Wu-jfju5atI&amp;amp;amp;amp;index=297&amp;amp;amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet</url>
+            <name>Ice Cube - Hood Mentality</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\7.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=uPqnrQfm8oU&amp;amp;amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;amp;amp;amp;index=273</url>
+            <name>Ice Cube - Gangsta Rap Made Me Do It</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\11.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=zAWANkPSLIk&amp;amp;amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;amp;amp;amp;index=267</url>
+            <name>Ice Cube - Why We Thugs</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\12.png</music_icon_path>
+        </song>
+    </playlist>
+    <playlist>
+        <playlist_name>Battlefield</playlist_name>
+        <song>
+            <url>https://www.youtube.com/watch?v=TIeq6ymGdgA&amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;amp;index=309</url>
+            <name>Battlefield 4 Theme Rock Remix</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\3.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=NIRR-fxKs6g&amp;amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;amp;index=311</url>
+            <name>Battlefield 1 Theme Song</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2.png</music_icon_path>
+        </song>
+    </playlist>
+    <playlist>
+        <playlist_name>Mixed</playlist_name>
+        <song>
+            <url>https://www.youtube.com/watch?v=cn1Wkb18E3A&amp;index=314&amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet</url>
+            <name>Knights Templar 1</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\1.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=-mSRraXCY9w&amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;index=307</url>
+            <name>Lenka - Blue Skies</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\4.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=5LrHfxW4XOg&amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;index=302</url>
+            <name>M.O.P - Cold As Ice</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\6.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=LJXxkPsNrVM&amp;index=295&amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet</url>
+            <name>Snavs - Exhale</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\8.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=Do5MMmEygsY&amp;index=289&amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet</url>
+            <name>2Pac - Ghetto Gospel</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\10.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=hf4IxNNiqbU&amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet&amp;index=315</url>
+            <name>Zelda - Song of Storms</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\13.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=nHLdiEDgHWA&amp;index=317&amp;list=PLCr5c5XvfBAQdrtR1hE1FnACgMmp3Zhet</url>
+            <name>Grace - You Dont Own Me</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\14.png</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=gVyFy61SP4U&amp;t=1604s</url>
+            <name>Pink Guy - Full Album</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\cb.png</music_icon_path>
+        </song>
+    </playlist>
+    <playlist>
+        <playlist_name>Axel Rudi Pell</playlist_name>
+        <song>
+            <url>https://www.youtube.com/watch?v=dwPvZ-eQ8fk</url>
+            <name>Axel Rudi Pell - The Gates Of The Seven Seals</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\hqdefault.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=dL_y_CZJ1W4</url>
+            <name>Axel Rudi Pell - Ride The Rainbow</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\hqdefault.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=juGy4gGAByQ</url>
+            <name>AXEL RUDI PELL - Mystica </name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=ZVe-m3e3LTI</url>
+            <name>AXEL RUDI PELL - Magic </name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\220px-AxelRudiPell-Magic.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=nNczH3a3MZ8</url>
+            <name>Axel Rudi Pell- Masquerade Ball</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\AxelRudiPell-TheMasqueradeBall.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=v_kDlLUQIjE</url>
+            <name>AXEL RUDI PELL  - Ashes From The Oath </name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\hqdefault.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=1uhhwVpnP3o</url>
+            <name>Axel Rudi Pell - Way To Mandalay</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\maxresdefault.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=JTDXWCLl7e8</url>
+            <name>Axel Rudi Pell - The Curse Of The Damned</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=8Dpi0UlowrM</url>
+            <name>Axel Rudi Pell - I Believe In You</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\AxelRudiPell-TheMasqueradeBall.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=zRFQMBjaEDw</url>
+            <name>Axel Rudi Pell - Fly To The Moon</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=dfKP9xvPT5o</url>
+            <name>Axel Rudi Pell - Valley Of Sin</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=wkdiDnKoNuA</url>
+            <name>Axel Rudi Pell - Living a Lie</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=K8dvZU2ZeJI</url>
+            <name>Axel Rudi Pell - No Chance To Live</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=Cex00QQbCT0</url>
+            <name>Axel Rudi Pell Haunted Castle Serenade</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=vjiyG7vYVuI</url>
+            <name>Axel Rudi Pell - Losing the Game</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\2006_arp_mystica.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=SIP1onhbyc0</url>
+            <name>Axel Rudi Pell - Earls of Black</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\AxelRudiPell-TheMasqueradeBall.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=bs9UpyOha7A</url>
+            <name>AXEL RUDI PELL - Voodoo Nights </name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\AxelRudiPell-TheMasqueradeBall.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=lf2WpjGdEME</url>
+            <name>Axel Rudi Pell - Tear Down the Walls</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\AxelRudiPell-TheMasqueradeBall.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=_8UHxG-lq5Q</url>
+            <name>AXEL RUDI PELL - Hot Wheels </name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\AxelRudiPell-TheMasqueradeBall.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=fK0XVz-oTj8&amp;list=LLto4NR7ZBd35R5ExFBwQJYg&amp;index=15</url>
+            <name>Axel Rudi Pell - Flyin' High</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Kings-And-Queens-cover.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=sVLoeakg2Js&amp;list=LLto4NR7ZBd35R5ExFBwQJYg&amp;index=12</url>
+            <name>Axel Rudi Pell - Too Late</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Axel_rudi_pell_the_crest.jpg</music_icon_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=1bQHk5Aujmg&amp;index=9&amp;list=LLto4NR7ZBd35R5ExFBwQJYg</url>
+            <name>AXEL RUDI PELL " Dark Waves Of The Sea " </name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Axel_rudi_pell_the_crest.jpg</music_icon_path>
+        </song>
+    </playlist>
+    <playlist>
+        <playlist_name>Hard Metal</playlist_name>
+        <song>
+            <url>https://www.youtube.com/watch?v=BFeT4M0eD_8</url>
+            <name>The Nomad - Faceless</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\3540397674_logo.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\THE NOMAD - Faceless (OFFICIAL VIDEO).mp3</mp3_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=EKvI7oAJ-Mo&amp;index=14&amp;list=LLto4NR7ZBd35R5ExFBwQJYg</url>
+            <name>The Nomad - Victim of the Evolution</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\3540397674_logo.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\The Nomad - Victim Of The Evolution (Audio with lyrics).mp3</mp3_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=3EMXFy2KkbY</url>
+            <name>The Nomad - VOTE (guitar playthrough)</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\3540397674_logo.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\The Nomad - Victim Of The Evolution (Guitar Playthrough).mp3</mp3_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=iy7JI9VfvzU</url>
+            <name>Parkway Drive - Swing</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\download.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Parkway Drive - Swing [Lyrics] [HD].mp3</mp3_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=QHxWavetJ_I</url>
+            <name>Parkway Drive - Dark Days</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\download.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Parkway Drive - Dark Days [Lyrics] [HD].mp3</mp3_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=5Dx5p3a4yCc</url>
+            <name>Bucovina - Asteapta-ma dincolo de moarte</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\37241_logo.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Bucovina - Asteapta ma Dincolo de Moarte.mp3</mp3_path>
+        </song>
+        <song>
+            <url>https://www.youtube.com/watch?v=zEOHCGZZ-KE</url>
+            <name>Bucovina - Ultima Iarna</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\37241_logo.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Bucovina - Ultima Iarna.mp3</mp3_path>
+        </song>
+        <song>
+            <url>MISSING</url>
+            <name>Led Zeppelin - Stairway To Heaven</name>
+            <music_icon_path>C:\Users\TC\Desktop\MusicMC\thumbnails\hqdefault.jpg</music_icon_path>
+            <mp3_path>C:\Users\TC\Desktop\MusicMC\thumbnails\Led Zeppelin - Stairway To Heaven (NOT LIVE) (Perfect Audio).mp3</mp3_path>
+        </song>
+    </playlist>
+</playlists>
